@@ -23,7 +23,7 @@ Every week, new papers are coming out and it's hard to track of them all, not to
 
 * STGCN [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875) -IJCAI2018 [Codes available](https://github.com/hazdzz/STGCN)
 
-* DCRNN [Diffusion Convolutional Recurrent Neural Networks: Data-Driven Traffic Forecasting](https://arxiv.org/abs/1707.01926)
+* DCRNN [Diffusion Convolutional Recurrent Neural Networks: Data-Driven Traffic Forecasting](https://arxiv.org/abs/1707.01926) - ICLR2018
 
 ## Urban Flow/Traffic/Speed Prediction Master thesis and Doctoral thesis
 * 李易容. 结合OD矩阵的城市地铁客流量预测研究[D].南京大学,2020.
