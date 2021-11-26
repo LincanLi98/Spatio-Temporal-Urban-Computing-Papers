@@ -25,6 +25,12 @@ Every week, new papers are coming out and it's hard to track of them all, not to
 
 * DCRNN [Diffusion Convolutional Recurrent Neural Networks: Data-Driven Traffic Forecasting](https://arxiv.org/abs/1707.01926) - ICLR2018
 
+## Urban Flow/Traffic/Speed Prediction papers presented in Top Journals.
+* Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution.- in IEEE Transactions on Knowledge and Data Engineering. [Codes available] (https://github.com/tsinghua-fib-lab/Traffic-Benchmark) [Reading Notes]()
+
+* [Learning Dynamic and Hierarchical Traffic Spatiotemporal Features With Transformer,. in IEEE Transactions on Intelligent Transportation Systems.] (https://ieeexplore.ieee.org/document/9520129)
+
+
 ## Urban Flow/Traffic/Speed Prediction Master thesis and Doctoral thesis
 * 李易容. 结合OD矩阵的城市地铁客流量预测研究[D].南京大学,2020.
 
